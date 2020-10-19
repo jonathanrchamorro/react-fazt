@@ -8,6 +8,7 @@ function Helloworld(){
 }
 
 // const App = () => <div>este es mi componente: <Helloworld/> </div>
+// dos formas de escribir la misma funcion 
 
 function App() {
   return (
